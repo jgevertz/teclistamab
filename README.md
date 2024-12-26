@@ -5,8 +5,8 @@ Code for "Using Virtual Patients to Evaluate Dosing Strategies for Bispecifics w
    - Generates red curves in Figure 3 when run at dose of 1.5
    - Generates Figure 7A and 7B when run at dose of 0.72
    - Generates Figures 7C and 7D when run at dose of 1.5
-   - Note that the code requires VPs_dose0pt72.mat to run at dose of 0.72, and VPs_dose1pt5.mat to run at dose of 1.5
-   - However, both of these files were too large to store on GitHub. They are available for download on Google Drive:
+   - Code requires downloading output_teclistamab_VCT_parallel.mat and saving in same folder as pop_PK_95percConfidence.m
+   - Code also requires VPs_dose0pt72.mat to run at dose of 0.72, and VPs_dose1pt5.mat to run at dose of 1.5. However, both of these files were too large to store on GitHub. They are available for download on Google Drive:
      - Dose of 0.72: https://drive.google.com/file/d/17-1_qh7lbqopBSgEuBYz-CVsS7o4UyXp/view?usp=drive_link
      - Dose of 1.5:  https://drive.google.com/file/d/1x4mp-Aprx_TO9jYKuP15dS6jELiHRrvo/view?usp=drive_link 
 
