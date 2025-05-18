@@ -25,7 +25,7 @@
 
 clearvars; clc; close all; tic;
 options=odeset('RelTol',1.0e-6); 
-load Output_1200VPs/output_teclistamab_VCT_parallel.mat
+load output_teclistamab_VCT_parallel.mat
 frequency = 1; % frequency to analyze for sensitivity
 [p,ICs] = set_parameters_ICs();
 baseline_p = p;
