@@ -1,6 +1,6 @@
 # teclistamab
 Code for "Using Virtual Patients to Evaluate Dosing Strategies for Bispecifics with a Bell-Shaped Efficacy Curve"
-1. trimer_teclistimab._new.m
+1. trimer_teclistimab._vs_data.m
    - Generates fits to data shown in Figure 2
 
 2. individual_VP_trajectories_noDisplay.m
